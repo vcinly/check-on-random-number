@@ -1,5 +1,7 @@
 # check-on-random-number
 
+[DEMO](https://vcinly.github.io/check-on-random-number/)
+
 ## Project setup
 ```
 yarn install
